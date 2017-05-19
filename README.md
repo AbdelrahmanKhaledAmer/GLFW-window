@@ -14,3 +14,10 @@ http://glew.sourceforge.net/
 
 ### GLFW download page
 http://www.glfw.org/download.html
+
+## Disclaimer
+The code in this repository was not written by myself. It was written by the people at https://learnopengl.com/.
+
+I used their code and changed the comments such that they seem more reasonable to myself, and so that others may benefit from it.
+
+https://learnopengl.com/ is a great source to learn from if you are still a beginner.
